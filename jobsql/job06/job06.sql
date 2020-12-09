@@ -1,0 +1,1 @@
+SELECT * FROM jobsql.etudiants where prenom like "t%";
